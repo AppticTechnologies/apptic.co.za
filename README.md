@@ -1,2 +1,2 @@
-# apptic.co.za
+# apptic.github.io
 Website for Apptic Technologies Pty Ltd
